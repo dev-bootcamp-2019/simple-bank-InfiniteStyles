@@ -1,6 +1,8 @@
 module.exports = {
   compilers: {
-    solc: '0.4.25'
+    solc: {
+      version: "0.5.1"
+    }
   },
   networks: {
     development: {

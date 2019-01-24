@@ -1,0 +1,17 @@
+{
+  "name": "simple-bank",
+  "version": "1.0.0",
+  "description": "The Simple Bank directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SimpleBank.sol contract.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Shtylman",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.0.2"
+  }
+}
